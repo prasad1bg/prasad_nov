@@ -1,3 +1,1 @@
-user.log
-alarm.log
-error.log 
+*.log 
